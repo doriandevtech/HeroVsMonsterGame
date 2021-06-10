@@ -32,7 +32,7 @@ while game_running == True:
         monster_won = False
 
         print('---' * 8)
-        print('Please select an action :')
+        print('Select an action :')
         print('1) Attack')
         print('2) Heal')
         print('3) Exit Game')
